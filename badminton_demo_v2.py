@@ -8,7 +8,7 @@ import pandas as pd
 from annotator import Annotator
 import more_itertools as mit
 
-sys.path.append('../code/')
+#sys.path.append('../code/')
 from utils import *
 
 url = sys.argv[1]
